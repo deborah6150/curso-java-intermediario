@@ -1,6 +1,4 @@
-package com.deborah.curso.intermediario.java;
-
-import com.deborah.curso.intermediario.java.aula61.Contato;
+package com.deborah.curso.intermediario.java.aula61;
 
 public class PassagemValorParametro {
 
