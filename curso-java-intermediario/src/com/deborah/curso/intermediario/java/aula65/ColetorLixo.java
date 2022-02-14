@@ -1,4 +1,4 @@
-package com.deborah.curso.intermediario.java;
+package com.deborah.curso.intermediario.java.aula65;
 
 import com.deborah.curso.intermediario.java.aula61.Contato;
 
