@@ -6,7 +6,8 @@ public class Aula84 {
 
 	public static void main(String[] args) {
 
-		String doArquivo = "1;Deborah;30;";
+		
+		String doArquivo = "1;Deborah;24;";
 
 		StringTokenizer st = new StringTokenizer(doArquivo, ";");
 
